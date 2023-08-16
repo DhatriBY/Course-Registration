@@ -1,0 +1,15 @@
+user = 'postgres',
+host = 'localhost',
+database = 'lab4',
+password = 'Divert@46',
+port = 5432,
+
+module.exports = {
+    user,
+    host,
+    database,
+    password,
+    port
+
+
+}
